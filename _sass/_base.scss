@@ -1,0 +1,18 @@
+$content-width: 1024px;
+$main: #425469;
+$font-style: 'Open Sans', sans-serif;
+$font-color: #262626;
+$link-color: #425469;
+$link-hover-color: $main;
+$heading-font: 'Muli', sans-serif;
+$heading-font-color: #425469;
+$light: #E7EDF4;
+$header:  gold;
+
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+} 
